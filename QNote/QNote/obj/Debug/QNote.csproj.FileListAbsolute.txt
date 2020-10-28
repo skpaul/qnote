@@ -1,0 +1,17 @@
+F:\Softwares\Programming Tools\QNote\QNote\bin\Debug\QNote.exe
+F:\Softwares\Programming Tools\QNote\QNote\bin\Debug\QNote.pdb
+F:\Softwares\Programming Tools\QNote\QNote\obj\Debug\ResolveAssemblyReference.cache
+F:\Softwares\Programming Tools\QNote\QNote\obj\Debug\QNote.Properties.Resources.resources
+F:\Softwares\Programming Tools\QNote\QNote\obj\Debug\QNote.csproj.GenerateResource.Cache
+F:\Softwares\Programming Tools\QNote\QNote\obj\Debug\QNote.exe
+F:\Softwares\Programming Tools\QNote\QNote\obj\Debug\QNote.pdb
+F:\Softwares\Programming Tools\QNote\QNote\obj\Debug\QNote.frmMain.resources
+E:\Software\Programming Tools\My Tools & Toolbar\QNote\QNote\obj\Debug\QNote.exe
+E:\Software\Programming Tools\My Tools & Toolbar\QNote\QNote\obj\Debug\QNote.pdb
+E:\Software\Programming Tools\My Tools & Toolbar\QNote\QNote\bin\Debug\QNote.exe
+E:\Software\Programming Tools\My Tools & Toolbar\QNote\QNote\bin\Debug\QNote.pdb
+E:\Software\Programming Tools\My Tools & Toolbar\QNote\QNote\obj\Debug\QNote.frmMain.resources
+E:\Software\Programming Tools\My Tools & Toolbar\QNote\QNote\obj\Debug\QNote.Properties.Resources.resources
+E:\Software\Programming Tools\My Tools & Toolbar\QNote\QNote\obj\Debug\QNote.csproj.GenerateResource.Cache
+E:\Software\Programming Tools\My Tools & Toolbar\QNote\QNote\bin\Debug\QNote.exe.config
+E:\Software\Programming Tools\My Tools & Toolbar\QNote\QNote\obj\Debug\QNote.csprojResolveAssemblyReference.cache
